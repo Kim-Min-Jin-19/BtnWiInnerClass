@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
 
         @Override
         public void onClick(View view) {
-            mainActivity.mTextView1.setText("You clicked button");
+            mainActivity.mTextView1.setText("You clicked 민진's button");
         }
     }
 }
